@@ -1,5 +1,0 @@
-config SHIELD_rupert_LEFT
-    def_bool $(shields_list_contains, rupert_left)
-
-config SHIELD_rupert_RIGHT
-    def_bool $(shields_list_contains, rupert_right)
